@@ -1,1 +1,1 @@
-# JBAnnotationsExamples
+# JetBrainsAnnotationsExamples
